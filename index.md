@@ -61,6 +61,24 @@ title: プライバシーポリシー
 
 当社は以下のサービスを利用しています。<br>
 
+- LINEミニアプリ（LIFF）（LINEログイン・ミニアプリ基盤サービス）<br>
+
+- LINE Messaging API（メッセージ配信サービス）<br>
+
+- Firebase Authentication（認証サービス）<br>
+
+- Cloud Firestore（データベースサービス）<br>
+
+- Cloud Functions（サーバーレス実行サービス）<br>
+
+- Firebase Hosting（ウェブホスティングサービス）<br>
+
+- Secret Manager（機密情報管理サービス）<br>
+
+- Google reCAPTCHA（不正アクセス・なりすまし防止サービス）<br>
+
+- Google Spreadsheet（表計算サービス）<br>
+
 - Google Form（アンケート収集サービス）<br>
 
 - Google Analytics（アクセス解析サービス）<br>
@@ -158,3 +176,4 @@ title: プライバシーポリシー
   -------<br>
   2026年5月30日 制定 <br>
   2026年6月3日 改訂 <br>
+  2026年7月19日 改訂 <br>
