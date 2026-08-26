@@ -13,7 +13,7 @@ title: プライバシーポリシー
 
 - LINEアカウントのプロフィール情報（表示名，プロフィール画像等。LINEログイン時に取得が許可された範囲に限ります）<br>
 
-- 生年月日（ユーザーの年齢確認のため） <br>
+- 生年月日（入力時点で年齢判定にのみ使用します） <br>
 
 - 予約したいお店名（ユーザーが入力した”予約したいお店”）<br>
 
@@ -228,5 +228,6 @@ title: プライバシーポリシー
   2026年8月7日 改訂 <br>
   2026年8月17日 改訂 <br>
   2026年8月26日 改訂 <br>
+  
   ---
-[SEKI:PASS トップページ](https://makoto-321.github.io/cancel_matching_service/) ｜ [利用規約](https://makoto-321.github.io/cancel_matching_terms-of-service/)
+[SEKI:PASSトップページ](https://makoto-321.github.io/cancel_matching_service/) ｜ [利用規約](https://makoto-321.github.io/cancel_matching_terms-of-service/)
