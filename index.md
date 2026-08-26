@@ -227,6 +227,6 @@ title: プライバシーポリシー
   2026年7月19日 改訂 <br>
   2026年8月7日 改訂 <br>
   2026年8月17日 改訂 <br>
-
+  2026年8月26日 改訂 <br>
   ---
 [SEKI:PASS トップページ](https://makoto-321.github.io/cancel_matching_service/) ｜ [利用規約](https://makoto-321.github.io/cancel_matching_terms-of-service/)
